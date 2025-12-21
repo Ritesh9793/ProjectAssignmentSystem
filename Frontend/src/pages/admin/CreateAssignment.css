@@ -1,0 +1,49 @@
+.create-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 40px;
+  background-color: #f4f6f8;
+}
+
+.create-card {
+  background: white;
+  padding: 30px;
+  width: 420px;
+  border-radius: 8px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+}
+
+.create-card h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.create-card input,
+.create-card textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.create-card textarea {
+  resize: vertical;
+  min-height: 80px;
+}
+
+.create-card button {
+  width: 100%;
+  padding: 10px;
+  background-color: #1976d2;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.create-card button:hover {
+  background-color: #125aa3;
+}

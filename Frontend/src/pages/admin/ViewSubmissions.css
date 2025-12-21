@@ -1,0 +1,58 @@
+.submissions-container {
+  min-height: 100vh;
+  padding: 40px;
+  background-color: #f4f6f8;
+}
+
+.submission-card {
+  background: white;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 6px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.submission-card a {
+  color: #1976d2;
+  text-decoration: none;
+}
+
+.submission-card a:hover {
+  text-decoration: underline;
+}
+
+.filter-select {
+  margin-bottom: 20px;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.export-btn {
+  margin-bottom: 20px;
+  padding: 8px 16px;
+  background-color: #2e7d32;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.export-btn:hover {
+  background-color: #1b5e20;
+}
+
+.evaluation {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+}
+
+.evaluation input {
+  padding: 6px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+
