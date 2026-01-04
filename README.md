@@ -22,9 +22,9 @@ In many college departments:
 
 **This system solves these challenges by:**
 
-✔ Automating assignment based on performance  
-✔ Providing clear visibility for both teachers and students  
-✔ Offering a modular architecture for enhancements
+- Automating assignment based on performance  
+- Providing clear visibility for both teachers and students  
+- Offering a modular architecture for enhancements
 
 ### Tech Stack 
   | Category         | Technology                             |
